@@ -47,7 +47,7 @@ h1, h2 {
 .header-inner {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 1.1rem clamp(1.25rem, 4vw, 3rem);
+  padding: 1.4rem clamp(1.25rem, 4vw, 3rem);
   display: flex;
   align-items: center;
   justify-content: space-between;
