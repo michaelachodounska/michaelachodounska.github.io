@@ -155,12 +155,12 @@ main {
 }
 
 .signature-wrap {
-  margin-top: 2rem;
+  margin-top: 1rem;
   text-align: center;
 }
 .signature-wrap img {
   max-width: 350px;
-  width: 100%;
+  width: 110%;
   display: inline-block;
 }
 
